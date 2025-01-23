@@ -2,11 +2,11 @@
   {
     "courseId": "3a9f3d6c-c391-4b1c-9c3d-6c3f3d6c3f3d",
     "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
-    "teacherName": "John Doe",
-    "title": "Introduction to Programming",
-    "description": "Learn the basics of programming with this comprehensive course.",
-    "category": "Computer Science",
-    "image": "https://images.pexels.com/photos/5905888/pexels-photo-5905888.jpeg",
+    "teacherName": "Ahmed Hossam",
+    "title": "Introduction to Competitive Swimming",
+    "description": "Learn the basics of competitive swimming, including techniques and training routines.",
+    "category": "fins-swimmer",
+    "image": "https://i.pinimg.com/736x/c2/67/18/c267182618d9a073b18137f81387b85c.jpg",
     "price": 4999,
     "level": "Beginner",
     "status": "Published",
@@ -17,20 +17,20 @@
     "sections": [
       {
         "sectionId": "2f9d1e8b-5a3c-4b7f-9e6d-8c2a1f0b3d5e",
-        "sectionTitle": "Getting Started",
-        "sectionDescription": "Learn the basics of programming and set up your development environment.",
+        "sectionTitle": "Getting Started with nutration",
+        "sectionDescription": "Learn the fundamentals of nutration and how to prepare for training.",
         "chapters": [
           {
             "chapterId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
             "type": "Video",
-            "title": "Welcome to Programming",
+            "title": "Welcome to Competitive Swimming",
             "content": "https://example.com/videos/welcome.mp4",
             "video": "https://example.com/videos/welcome.mp4",
             "comments": [
               {
                 "commentId": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
                 "userId": "emma.wilson@hotmail.com",
-                "text": "Great introduction!",
+                "text": "Great introduction to swimming techniques!",
                 "timestamp": "2023-03-10T09:15:00Z"
               }
             ]
@@ -38,28 +38,28 @@
           {
             "chapterId": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
             "type": "Text",
-            "title": "What is Programming?",
-            "content": "Programming is the process of creating instructions for computers to follow...",
+            "title": "Basics of Swimming Strokes",
+            "content": "Swimming strokes include freestyle, backstroke, breaststroke, and butterfly. Each has unique techniques...v",
             "comments": []
           },
           {
             "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
             "type": "Quiz",
-            "title": "Programming Basics Quiz",
-            "content": "1. What is a variable?\n2. What is the difference between a compiler and an interpreter?\n3. Name three popular programming languages.",
+            "title": "Swimming Basics Quiz",
+            "content": "1. What is the primary purpose of a warm-up? \n2. Name the four main swimming strokes. \n3. What is the role of kickboards in training?",
             "comments": []
           }
         ]
       },
       {
         "sectionId": "3g0e2f9c-6d4e-5a7f-8b9g-1h2i3j4k5l6m",
-        "sectionTitle": "Basic Programming Concepts",
-        "sectionDescription": "Explore fundamental programming concepts and data types.",
+        "sectionTitle": "Basic Swimming Techniques",
+        "sectionDescription": "Explore key techniques for effective swimming",
         "chapters": [
           {
             "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
             "type": "Video",
-            "title": "Variables and Data Types",
+            "title": "Freestyle Stroke Techniques",
             "content": "https://example.com/videos/variables-data-types.mp4",
             "video": "https://example.com/videos/variables-data-types.mp4",
             "comments": []
@@ -67,44 +67,15 @@
           {
             "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
             "type": "Text",
-            "title": "Control Structures",
+            "title": "Breathing and Timing",
             "content": "Control structures are fundamental elements in programming that allow you to control the flow of your program...",
             "comments": []
           },
           {
             "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
             "type": "Quiz",
-            "title": "Control Structures Quiz",
-            "content": "1. What is an if-else statement?\n2. Explain the purpose of a loop.\n3. What is a switch statement?",
-            "comments": []
-          }
-        ]
-      },
-      {
-        "sectionId": "4h1f3g0d-7e5f-6b8g-9c0h-2i3j4k5l6m7n",
-        "sectionTitle": "Functions and Modules",
-        "sectionDescription": "Learn how to organize your code using functions and modules.",
-        "chapters": [
-          {
-            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
-            "type": "Video",
-            "title": "Introduction to Functions",
-            "content": "https://example.com/videos/intro-to-functions.mp4",
-            "video": "https://example.com/videos/intro-to-functions.mp4",
-            "comments": []
-          },
-          {
-            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
-            "type": "Text",
-            "title": "Creating and Using Modules",
-            "content": "Modules are a way to organize and reuse code across different parts of your program...",
-            "comments": []
-          },
-          {
-            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
-            "type": "Quiz",
-            "title": "Functions and Modules Quiz",
-            "content": "1. What is the difference between a function and a method?\n2. How do you import a module in Python?\n3. What is the purpose of the 'return' statement in a function?",
+            "title": "Freestyle and Breathing Quiz",
+            "content": "1. What is the correct head position for freestyle? \n2. Explain the importance of bilateral breathing. \n3. How can you improve stroke efficiency?",
             "comments": []
           }
         ]
@@ -114,11 +85,11 @@
   {
     "courseId": "8b4f7d9c-4b1c-4b1c-8b4f-7d9c8b4f7d9c",
     "teacherId": "user_4mNj68RtPvXw2Ky9Qc7HbSdAf",
-    "teacherName": "Alice Johnson",
-    "title": "Advanced Machine Learning",
-    "description": "Dive deep into machine learning algorithms and techniques.",
-    "category": "Artificial Intelligence",
-    "image": "https://images.pexels.com/photos/6303596/pexels-photo-6303596.jpeg",
+    "teacherName": "Kareem Tourk",
+    "title": "Breathing timing and count during short distance swimming",
+    "description": "Enhancing the quality of breathing timing while taking a stroke and figuring out the best stroke each breath.",
+    "category": "short-distance-swimmer",
+    "image": "https://i.pinimg.com/736x/a4/b8/36/a4b8367313d1898c85a77febc7630b84.jpg",
     "price": 9999,
     "level": "Advanced",
     "status": "Published",
@@ -130,12 +101,12 @@
       {
         "sectionId": "1a7b3c5d-9e2f-4g6h-8i0j-2k4l6m8n0p1q",
         "sectionTitle": "Neural Networks",
-        "sectionDescription": "Learn about neural networks and their applications.",
+        "sectionDescription": "Learn about breath",
         "chapters": [
           {
             "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
             "type": "Video",
-            "title": "Introduction to Neural Networks",
+            "title": "Breath timing",
             "content": "https://example.com/videos/neural-networks-intro.mp4",
             "videoLength": 1200,
             "comments": [],
@@ -146,93 +117,93 @@
           {
             "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
             "type": "Quiz",
-            "title": "Neural Networks Quiz",
-            "content": "1. What is a neuron?\n2. Explain backpropagation.\n3. What is an activation function?",
+            "title": "Example of Mickel Philipes stroke and breath timing",
+            "content": "1. When he take the breath?\n2. Arm frequency.\n3. How to hold the breath?",
             "comments": []
           },
           {
             "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
             "type": "Text",
-            "title": "Types of Neural Networks",
-            "content": "There are various types of neural networks, each designed for specific tasks...",
+            "title": "Types of breath",
+            "content": "There are various types of breath ",
             "comments": []
           }
         ]
       },
       {
         "sectionId": "2b8c4d6e-0f3g-5h7i-9j1k-3l5m7n9p1q3r",
-        "sectionTitle": "Deep Learning",
-        "sectionDescription": "Explore advanced deep learning techniques and architectures.",
+        "sectionTitle": "Advanced Swimming Techniques",
+        "sectionDescription": "Explore advanced swimming techniques and strategies to enhance performance.",
         "chapters": [
           {
             "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
             "type": "Video",
-            "title": "Convolutional Neural Networks",
-            "content": "https://example.com/videos/cnn-explained.mp4",
+            "title": "Butterfly Stroke Mastery",
+            "content": "https://example.com/videos/butterfly-techniques.mp4",
             "videoLength": 1500,
             "comments": [],
-            "videoUrl": "https://example.com/videos/cnn-explained.mp4",
+            "videoUrl": "https://example.com/videos/butterfly-techniques.mp4",
             "videoUniqueId": "vid_005",
             "videoType": "dash"
           },
           {
             "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
             "type": "Text",
-            "title": "Recurrent Neural Networks",
-            "content": "Recurrent Neural Networks (RNNs) are a class of neural networks designed to work with sequential data...",
+            "title": "Open Water Swimming Strategies",
+            "content": "Open water swimming requires strong navigation skills, endurance, and adaptability to different water conditions...",
             "comments": []
           },
           {
             "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
             "type": "Quiz",
-            "title": "Deep Learning Architectures Quiz",
-            "content": "1. What is the main advantage of CNNs?\n2. Explain the vanishing gradient problem in RNNs.\n3. What is transfer learning?",
+            "title": "Advanced Techniques Quiz",
+            "content": "1. What is the key to mastering the butterfly stroke?\n2. How can you improve navigation in open water swimming?\n3. What are the benefits of high elbow recovery in freestyle?",
             "comments": []
           }
         ]
       },
       {
         "sectionId": "3c9d5e7f-1g4h-6i8j-0k2l-4m6n8p0q2r4s",
-        "sectionTitle": "Advanced ML Algorithms",
-        "sectionDescription": "Study cutting-edge machine learning algorithms and their implementations.",
+        "sectionTitle": "Advanced Swimming Drills",
+        "sectionDescription": "Learn advanced swimming drills to refine techniques and build endurance.",
         "chapters": [
           {
             "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
             "type": "Video",
-            "title": "Generative Adversarial Networks",
-            "content": "https://example.com/videos/gan-explained.mp4",
+            "title": "Underwater Dolphin Kicks",
+            "content": "https://example.com/videos/underwater-kicks.mp4",
             "videoLength": 1800,
             "comments": [],
-            "videoUrl": "https://example.com/videos/gan-explained.mp4",
+            "videoUrl": "https://example.com/videos/underwater-kicks.mp4",
             "videoUniqueId": "vid_006",
             "videoType": "mp4"
           },
           {
             "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
             "type": "Text",
-            "title": "Reinforcement Learning",
-            "content": "Reinforcement Learning is a type of machine learning where an agent learns to make decisions by interacting with an environment...",
+            "title": "Breath Control Drills",
+            "content": "Breath control drills help swimmers improve lung capacity and maintain efficiency while swimming long distances...",
             "comments": []
           },
           {
             "chapterId": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
             "type": "Quiz",
-            "title": "Advanced ML Algorithms Quiz",
-            "content": "1. What are the components of a GAN?\n2. Explain the difference between Q-learning and policy gradients.\n3. What is the purpose of the discriminator in a GAN?",
+            "title": "Advanced Swimming Drills Quiz",
+            "content": "1. What is the ideal body position for underwater dolphin kicks?\n2. How can you practice breath control effectively?\n3. What is the role of core strength in advanced swimming techniques?",
             "comments": []
           }
         ]
-      }
+      }      
     ]
   },
   {
     "courseId": "c5d6e7f8-g9h0-i1j2-k3l4-m5n6o7p8q9r0",
     "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
-    "teacherName": "John Doe",
-    "title": "Web Development Fundamentals",
-    "description": "Learn the basics of HTML, CSS, and JavaScript to build modern websites.",
-    "category": "Web Development",
-    "image": "https://images.pexels.com/photos/6001397/pexels-photo-6001397.jpeg",
+    "teacherName": "Sherif Hamed",
+    "title": "New freestyle drill",
+    "description": "Learning some new drill and know their effects",
+    "category": "barefoot-swimmer",
+    "image": "https://i.pinimg.com/736x/8e/46/86/8e4686b73123fac0cfd3414e2f026018.jpg",
     "price": 7999,
     "level": "Beginner",
     "status": "Published",
@@ -243,13 +214,13 @@
     "sections": [
       {
         "sectionId": "3e5f7g9h-1i3j-5k7l-9m1n-3o5p7q9r1s3t",
-        "sectionTitle": "HTML Basics",
-        "sectionDescription": "Learn the fundamentals of HTML.",
+        "sectionTitle": "Drill basic",
+        "sectionDescription": "Learn the fundamentals of drills.",
         "chapters": [
           {
             "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
             "type": "Video",
-            "title": "Introduction to HTML",
+            "title": "Introduction to drill",
             "content": "https://example.com/videos/intro-to-html.mp4",
             "video": "https://example.com/videos/intro-to-html.mp4",
             "comments": []
@@ -257,44 +228,37 @@
           {
             "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
             "type": "Quiz",
-            "title": "HTML Tags Quiz",
-            "content": "1. What does HTML stand for?\n2. Name three basic HTML tags.\n3. What is the purpose of the <head> tag?",
-            "comments": []
-          },
-          {
-            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
-            "type": "Text",
-            "title": "HTML Forms and Input Elements",
-            "content": "HTML forms are used to collect user input. Learn about various input types and form elements...",
+            "title": "drill  Quiz",
+            "content": "1. What does drill stand for?\n2. Name three basic drills.\n3. What is the purpose of the drills?",
             "comments": []
           }
         ]
       },
       {
         "sectionId": "4f6g8h0i-2j4k-6l8m-0n2p-4q6r8s0t2u4v",
-        "sectionTitle": "CSS Styling",
-        "sectionDescription": "Learn how to style your HTML with CSS.",
+        "sectionTitle": "Swimming Techniques",
+        "sectionDescription": "Master essential swimming techniques for better performance and efficiency.",
         "chapters": [
           {
             "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
             "type": "Video",
-            "title": "CSS Basics",
-            "content": "https://example.com/videos/css-basics.mp4",
-            "video": "https://example.com/videos/css-basics.mp4",
+            "title": "Freestyle Basics",
+            "content": "https://example.com/videos/freestyle-basics.mp4",
+            "video": "https://example.com/videos/freestyle-basics.mp4",
             "comments": []
           },
           {
             "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
             "type": "Text",
-            "title": "CSS Layout Techniques",
-            "content": "Learn about different CSS layout techniques including Flexbox and Grid...",
+            "title": "Breaststroke Techniques",
+            "content": "Learn the key elements of an efficient breaststroke, including arm pull, kick, and breathing...",
             "comments": []
           },
           {
             "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
             "type": "Quiz",
-            "title": "CSS Styling Quiz",
-            "content": "1. What is the box model in CSS?\n2. Explain the difference between inline and block elements.\n3. How do you center an element horizontally and vertically using Flexbox?",
+            "title": "Swimming Techniques Quiz",
+            "content": "1. What is the proper hand position for freestyle?\n2. How do you maintain a streamlined body position during breaststroke?\n3. What is the purpose of the two-beat kick in freestyle swimming?",
             "comments": []
           }
         ]
@@ -304,13 +268,13 @@
   {
     "courseId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
     "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
-    "teacherName": "Michael Brown",
-    "title": "Data Science Fundamentals",
-    "description": "Learn the basics of data science, including statistics, data visualization, and machine learning.",
-    "category": "Data Science",
-    "image": "https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg",
-    "price": 8999,
-    "level": "Intermediate",
+    "teacherName": "Eslam Ahmed",
+    "title": "Nutrition Basics for Swimmers",
+    "description": "Understand the fundamentals of nutrition tailored to swimmers for optimal performance and recovery.",
+    "category": "Nutrition",
+    "image": "https://i.pinimg.com/736x/39/3f/d5/393fd56745313fd4116acc6ee3703c93.jpg",
+    "price": 6999,
+    "level": "Beginner",
     "status": "Published",
     "enrollments": [
       { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
@@ -319,22 +283,22 @@
     "sections": [
       {
         "sectionId": "4u6v8w0x-2y4z-6a8b-0c2d-4e6f8g0h2i4j",
-        "sectionTitle": "Introduction to Data Science",
-        "sectionDescription": "Learn the basics of data science and its applications.",
+        "sectionTitle": "Introduction to Nutrition for Swimmers",
+        "sectionDescription": "Learn the basics of nutrition and its importance for swimmers.",
         "chapters": [
           {
             "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
             "type": "Video",
-            "title": "What is Data Science?",
-            "content": "https://example.com/videos/what-is-data-science.mp4",
-            "video": "https://example.com/videos/what-is-data-science.mp4",
+            "title": "Why Nutrition Matters for Swimmers",
+            "content": "https://example.com/videos/swimmer-nutrition-intro.mp4",
+            "video": "https://example.com/videos/swimmer-nutrition-intro.mp4",
             "comments": []
           },
           {
             "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
             "type": "Quiz",
-            "title": "Data Science Basics Quiz",
-            "content": "1. Define data science.\n2. What are the main components of data science?\n3. How does machine learning relate to data science?",
+            "title": "Nutrition Basics Quiz",
+            "content": "1. Why is hydration crucial for swimmers?\n2. Name three macronutrients essential for energy.\n3. How does nutrition impact recovery after swimming?",
             "comments": []
           }
         ]
@@ -344,38 +308,38 @@
   {
     "courseId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
     "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
-    "teacherName": "John Doe",
-    "title": "Mobile App Development with React Native",
-    "description": "Build cross-platform mobile apps using React Native and JavaScript.",
-    "category": "Mobile Development",
-    "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
-    "price": 12999,
+    "teacherName": "Omar maged",
+    "title": "Advanced Nutrition Strategies for Swimmers",
+    "description": "Dive into advanced strategies to optimize performance, recovery, and endurance through tailored nutrition.",
+    "category": "Nutrition",
+    "image": "https://i.pinimg.com/736x/7f/f2/52/7ff252eb7d1d6c989256559d7a2f3957.jpg",
+    "price": 10999,
     "level": "Advanced",
     "status": "Published",
     "enrollments": [{ "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" }],
     "sections": [
       {
         "sectionId": "5k7l9m1n-3o5p-7q9r-1s3t-5u7v9w1x3y5z",
-        "sectionTitle": "Getting Started with React Native",
-        "sectionDescription": "Learn the basics of React Native development.",
+        "sectionTitle": "Fueling for Peak Performance",
+        "sectionDescription": "Learn advanced strategies to fuel your body for competitions and intense training.",
         "chapters": [
           {
             "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
             "type": "Video",
-            "title": "Setting Up Your Development Environment",
-            "content": "https://example.com/videos/react-native-setup.mp4",
-            "video": "https://example.com/videos/react-native-setup.mp4",
+            "title": "Meal Timing and Energy Balance",
+            "content": "https://example.com/videos/meal-timing.mp4",
+            "video": "https://example.com/videos/meal-timing.mp4",
             "comments": []
           },
           {
             "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
             "type": "Text",
-            "title": "React Native Basics",
-            "content": "Learn about functions, objects, and other core concepts in JavaScript...",
+            "title": "Macronutrient Breakdown for Swimmers",
+            "content": "Understand how to balance proteins, carbs, and fats to enhance endurance and recovery...",
             "comments": []
           }
         ]
       }
     ]
-  }
+  }  
 ]
